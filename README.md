@@ -24,8 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [QR-Code-Component](https://clamp1981.github.io/QR-Code-Componet/)
 
 ## My process
 
@@ -53,6 +52,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Website - [kelo](https://www.notion.so/clamp1981/Kelo-s-HOME-2a0c15edfed549df98b0853e6632ab74)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/clamp1981)
+- Frontend Mentor - [@clamp1981](https://www.frontendmentor.io/profile/clamp1981)
 
 
